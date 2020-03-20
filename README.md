@@ -1,2 +1,2 @@
-# connect3game
-Easy game to play in android!
+# Connect 3 Game :)
+Easy game to play.
